@@ -12,6 +12,10 @@ Result will be an additional "CDROM" folder in each game folder containing the .
 
 5. (Optional) Use a file manager to delete all .DAT, .PBP, and .BIN files from the subfolders if you do not want them. I am currently choosing to have 3 copies: the original .pkg, .pbp/.dat/key.bin, and resultant .cue/.bin.  
 
+![image](https://github.com/treyus30/PSXBINq-T30Mod/assets/136277393/9f041257-f1ae-4d98-b47d-a8e870c04639)
+
+
+
 # PSXBINq
 Tool to unpack PSX PBP and convert to .BIN &amp; .cue files Ready for Playstation Classic 
  
