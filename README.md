@@ -10,6 +10,8 @@ How to use:
 
 Result will be an additional "CDROM" folder in each game folder containing the .BIN and .CUE for each. Further modification of the run_T30Mod.bat file may be done to rename the files to their Game ID based on source folder names in batch series. 
 
+5. (Optional) Use a file manager to delete all .DAT, .PBP, and .BIN files from the subfolders if you do not want them. I am currently choosing to have 3 copies: the original .pkg, .pbp/.dat/key.bin, and resultant .cue/.bin.  
+
 # PSXBINq
 Tool to unpack PSX PBP and convert to .BIN &amp; .cue files Ready for Playstation Classic 
  
