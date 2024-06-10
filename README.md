@@ -1,3 +1,15 @@
+# Treyus30 Mod (T30 Mod)
+I was not happy with the way the original PSXBINq would batch process. It has more flexibility the way it is, but is only conducive to a few images at once. 
+This mod does not take any commands - it just runs a batch with preconfigured paramters. 
+
+How to use:
+1. After downloading PSX images via NoPayStation you will have the default directories: "\pspemu\PSP\GAME\<game folders>\" DOCUMENT.DAT, EBOOT.PBP, and KEYS.BIN
+2. Copy the release .zip and extract to "\pspemu\"
+3. Rename "\PSP\" with PBP files in it to "\PSX\", or move them over to the one included with the .zip file. 
+4. Run "PSXBINq_T30mod.bat" and let it work. No files should be removed other than what the program itself creates. 
+
+Result will be an additional "CDROM" folder in each game folder containing the .BIN and .CUE for each. Further modification of the run_T30Mod.bat file may be done to rename the files to their Game ID based on source folder names in batch series. 
+
 # PSXBINq
 Tool to unpack PSX PBP and convert to .BIN &amp; .cue files Ready for Playstation Classic 
  
